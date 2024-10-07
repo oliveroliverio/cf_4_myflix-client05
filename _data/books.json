@@ -1,6 +1,7 @@
-[
-    {
-        "id": 1,
+{
+    "books": [
+        {
+            "id": 1,
         "title": "Eloquent JavaScript",
         "image": "https://images-na.ssl-images-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
         "author": "Marijn Haverbeke"
@@ -30,3 +31,4 @@
         "author": "Robin Wieruch"
     }
 ]
+}
